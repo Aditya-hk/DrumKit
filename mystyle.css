@@ -1,0 +1,70 @@
+.set
+{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: cadetblue;
+}
+#title
+{
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large;
+}
+footer
+{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+.pressed
+{
+  box-shadow:0 3px 4px 0 #DBEDF3;
+  opacity: 0.6;
+}
+.drum
+{ 
+    font-size: x-large;
+    width: 150px;
+    height: 150px;
+    color: blue;
+    margin-top: 100px;
+    border: 2px solid #404B69;
+    border-radius: 15px;
+
+}
+.w {
+background-image:url(./images/crash.png);
+
+}
+
+.a {
+background-image:url(./images/kick.png);
+}
+
+
+.s {
+background-image:url(./images/snare.png);
+}
+
+
+.d {
+background-image:url(./images/tom1.png);
+}
+
+
+.j {
+background-image:url(./images/tom2.png);
+}
+
+
+.k {
+background-image:url(./images/tom3.png);
+}
+
+
+.l {
+background-image:url(./images/tom4.png);
+}
+
